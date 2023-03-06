@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "Foodify",
+      "image": "https://i.ibb.co/jkmvRFn/foodiy.jpg",
+      "repository_link": "https://github.com/FireCodexs/Foodify",
+      "deployed_link": "https://firecodexs.github.io/Foodify/"
+    },
+    {
+      "id": 2,
+      "title": "Is It Gonna Rain",
+      "image": "https://i.ibb.co/7pD8VXm/is-it-gonna-rain.jpg",
+      "repository_link": "https://github.com/FireCodexs/Is-It-Gonna-Rain",
+      "deployed_link": "https://firecodexs.github.io/Is-It-Gonna-Rain/"
+    },
+    {
+      "id": 3,
+      "title": "Project Tracker",
+      "image": "https://i.ibb.co/7GDxGtf/project-tracker.jpg",
+      "repository_link": "https://github.com/FireCodexs/Project-Tracker",
+      "deployed_link": "https://firecodexs.github.io/Project-Tracker/"
+    },
+    {
+      "id": 4,
+      "title": "Quizz Game",
+      "image": "https://i.ibb.co/w0Bx5d2/quizz-game.jpg",
+      "repository_link": "https://github.com/FireCodexs/Quizz-Game",
+      "deployed_link": "https://firecodexs.github.io/Quizz-Game/"
+    },
+    {
+      "id": 5,
+      "title": "Unbreakable Generator",
+      "image": "https://i.ibb.co/C15KDmN/unbreakable-generator.jpg",
+      "repository_link": "https://github.com/FireCodexs/unbreakabale-generator",
+      "deployed_link": "https://firecodexs.github.io/unbreakabale-generator/"
+    },
+    {
+      "id": 6,
+      "title": "Bootstrap Portofolio",
+      "image": "https://i.ibb.co/3Y6HMVr/bootstrap-portofolio.jpg",
+      "repository_link": "https://github.com/FireCodexs/project-3",
+      "deployed_link": "https://firecodexs.github.io/project-3/"
+    }
+  ]
